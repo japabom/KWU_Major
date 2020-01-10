@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
+      prefHeight="220.0" prefWidth="220.0" xmlns:fx="http://javafx.com/fxml">
+    <children>
+        <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="40.0">
+            <children>
+                <Label text="이름" />
+                <TextField fx:id="textfield1" prefHeight="23.0" prefWidth="110.0" />
+            </children>
+        </HBox>
+        <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="40.0">
+            <children>
+                <Label text="국어" />
+                <TextField fx:id="textfield2" prefHeight="23.0" prefWidth="110.0" />
+            </children>
+        </HBox>
+        <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="40.0">
+            <children>
+                <Label text="수학" />
+                <TextField fx:id="textfield3" prefHeight="23.0" prefWidth="110.0" />
+            </children>
+        </HBox>
+        <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="40.0">
+            <children>
+                <Label text="영어" />
+                <TextField fx:id="textfield4" prefHeight="23.0" prefWidth="110.0" />
+            </children>
+        </HBox>
+        <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="40.0">
+            <children>
+                <Button fx:id="btn1" mnemonicParsing="false" text="저장" />
+                <Button fx:id="btn2" mnemonicParsing="false" text="취소" />
+            </children>
+            <VBox.margin>
+                <Insets top="10.0" />
+            </VBox.margin>
+        </HBox>
+    </children>
+    <padding>
+        <Insets bottom="20.0" top="20.0" />
+    </padding>
+</VBox>

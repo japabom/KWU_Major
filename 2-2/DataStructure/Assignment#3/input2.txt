@@ -1,0 +1,9 @@
+INS 1 INS 2 INS 3 INS 4 INS 5 
+INS 6 INS 7 INS 8 INS 9 INS 0 
+INS a INS b INS c INS d INS e 
+INS f INS g INS h INS i INS j 
+INS k INS l INS m INS n INS o 
+INS p INS q INS r INS s INS t 
+INS u INS p INS q INS r INS s INS t 
+INS u 
+INS Y INS Z INS ?  EOI

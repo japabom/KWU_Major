@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.chart.*?>
+
+
+<VBox alignment="TOP_CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
+      prefHeight="255.0" prefWidth="320.0" xmlns:fx="http://javafx.com/fxml">
+    <padding>
+        <Insets bottom="20.0" top="20.0" />
+    </padding>
+    <children>
+        <BarChart fx:id="barchart">
+            <xAxis>
+                <CategoryAxis side="BOTTOM" />
+            </xAxis>
+            <yAxis>
+                <NumberAxis side="LEFT" />
+            </yAxis>
+        </BarChart>
+        <Button fx:id="btn3" mnemonicParsing="false" text="닫기" />
+    </children>
+</VBox>
