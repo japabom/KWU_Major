@@ -1,0 +1,62 @@
+Club			ClubMoney
+
+Barcelona		725,000,000
+Real Madrid		497,000,000
+Manchester City		878,000,000
+Manchester United	747,000,000
+Liverpool		461,000,000
+
+포지션		선수 이름		이적료(유로)
+
+FW		Messi			300,000,000
+		L.Suarez		 86,000,000
+		Ronaldo			 45,000,000
+		Bale			100,000,000
+		Benzema			 46,000,000
+		Neymar			222,000,000
+		Lewandowski		 86,000,000
+		Muller			 97,500,000
+		Ronaldinho		 25,000,000
+		C.Ronaldo		100,000,000
+		SON			 90,000,000
+		R.Carlos		  6,000,000
+		Mbappe			180,000,000
+		Rooney			 30,000,000
+		M.Salah			 39,000,000
+		Kane			198,000,000
+		Griezmann		 30,000,000
+
+MF		J.S.Park		  7,300,000
+		Pogba			102,000,000
+		A.Iniesta		 35,000,000
+		Modric			 35,000,000
+		Sergio Busquets		100,000,000
+		Eriksen			 62,000,000
+		Kroos			 25,000,000
+		De Bruyne		 74,000,000
+		Silva			 50,000,000
+		Isco			 40,000,000
+		Vidal			 35,000,000
+		Casemiro		  6,000,000
+		Coutinho		163,000,000
+		Mane			 34,000,000
+		J.Rodriguez		 80,000,000
+
+DEF		Marcelo			  6,000,000
+		Pique			  7,000,000
+		Sergio Ramos		 90,000,000
+		Jordi Alba		 14,000,000
+		Hummels			 41,000,000
+		Otamendi		 45,000,000
+
+GK		Casillas		  6,000,000
+		De Gea			 40,000,000
+		Neuer			 30,000,000
+		Buffon			 53,500,000
+		Navas			 10,000,000
+		Van der Sar		 23,000,000
+		Oblak			 16,000,000
+		Ederson			 40,000,000
+		Lloris			 19,000,000
+		Ter Stegen		 23,000,000
+
